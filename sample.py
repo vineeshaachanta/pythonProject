@@ -1,0 +1,8 @@
+print("v")
+print("i")
+print("n")
+print("e")
+print("e")
+print("s")
+print("h")
+print("a")
